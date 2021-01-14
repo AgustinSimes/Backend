@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Agustin Simes",
+        "profession": "Frontend Developer",
+        "photo": "",
+        "about_me": "I'm a web devoloper based in Cordoba, Argentina. Passionate about web design, enthusiast, now learning to use ReactJs framework.",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Java",
+            "C#",
+            "SQL Server"
+        ]
+
+    }
+]
